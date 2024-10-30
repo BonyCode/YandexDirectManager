@@ -55,13 +55,14 @@
 
 1. **Склонируйте репозиторий**:
 
+    ```bash
     git clone https://github.com/yourusername/YandexDirectManager.git
     cd YandexDirectManager
-    
+    ```
 
 2. **Установите зависимости для Electron**:
 
-    
+    ```bash
     npm install
     ```
 
